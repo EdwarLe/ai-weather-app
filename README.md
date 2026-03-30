@@ -28,7 +28,7 @@ La aplicación está construida con una arquitectura modular que separa responsa
 1. **Clonar el repositorio:**
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/EdwarLe/ai-weather-app.git
 cd weather-app
 ```
 
